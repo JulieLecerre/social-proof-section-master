@@ -1,0 +1,137 @@
+body {
+	background-image: url(images/bg-pattern-top-desktop.svg);
+
+}
+
+#global {
+	position: absolute;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+
+.bloc2 {
+	position:absolute;
+	top: 10px;
+	left: 440px;
+}
+
+.rectangle {
+	width: 395px;
+	height:50px;
+	background:#f7f2f8;
+}
+
+.rectangle1 {
+	margin-left: 402px;
+}
+
+.rectangle2 {
+	margin-left: 440px;
+}
+
+.rectangle3 {
+	margin-left: 490px;
+}
+
+p {
+	color: purple;
+	font-weight: bold;
+	position: relative;
+	top: 18px;
+	left: 10px;
+	font-family: 'Spartan';
+	font-size: smaller;
+}
+
+.stars {
+
+	float: left;
+	margin-left: 15px;
+	position: relative;
+	top: 14px;
+	left: 10px;
+}
+
+.carre {
+	width: 400px;
+	height:250px;
+	background:#511f50;
+	border-radius: 10px 10px 10px 10px;
+}
+
+.carre1 {
+	
+	position: absolute;
+	top: 360px;
+	left: 60px;
+}
+
+
+.carre2 {
+
+	position: absolute;
+	top: 380px;
+	left: 493px;
+}
+
+.carre3 {
+	position: absolute;
+	top: 400px;
+	left: 930px;
+}
+
+.grandtexte {
+	color:#511f50;
+	font-size: 60px;
+	font-family: 'Spartan';
+	font-weight:400, 500, 700;
+	font-weight: bold;
+	position: relative;
+	left: 60px;
+}
+
+.petittexte {
+	color:#a39ca4;
+	font-family: 'Spartan';
+	font-weight: bold;
+	text-align: justify;
+	position: relative;
+	left: 60px;
+}
+
+.photo {
+	width: 50px;
+	height: 50px;
+	-webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    position: relative;
+    top: 25px;
+    left: 25px;
+}
+
+.poste {
+	color:#bd70a4;
+	position: relative;
+	left: 100px;
+	font-family: 'Spartan';
+}
+
+.noms {
+	color:#b69fb9;
+	position: relative;
+	left: 45px;
+	font-family: 'Spartan';
+}
+
+.itw {
+	color: #f8dbf9;
+	text-align: justify-all;
+	position: relative;
+	top:20px;
+	left: 28px;
+	font-family: 'Spartan';
+
+}
