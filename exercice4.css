@@ -12,11 +12,11 @@ body {
 .bloc2 {
 	position:absolute;
 	top: 10px;
-	left: 440px;
+	left: 400px;
 }
 
 .rectangle {
-	width: 395px;
+	width: 440px;
 	height:50px;
 	background:#f7f2f8;
 }
@@ -41,6 +41,7 @@ p {
 	left: 10px;
 	font-family: 'Spartan';
 	font-size: smaller;
+
 }
 
 .stars {
@@ -50,6 +51,7 @@ p {
 	position: relative;
 	top: 14px;
 	left: 10px;
+	margin-right:10px;
 }
 
 .carre {
